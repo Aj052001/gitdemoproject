@@ -18,14 +18,3 @@ console.log("hello")
 dfkjdsflksjdf
 lksdjflkdsj
 
-
-// update 
-
-
-// git  add .
-
-
-// git commit -m"dsfkds"
-
-
-// git push origin main
