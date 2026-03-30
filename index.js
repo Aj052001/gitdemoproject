@@ -9,8 +9,7 @@ console.log("hello")
 // git commit -m"first commit"
 
 // git branch -M main
-
-// git remote add origin https://github.com/Aj052001/gitdemoproject.git
+//git remote add origin https://github.com/Aj052001/gitdemoproject.git
 
 //  git push -u origin main
 
